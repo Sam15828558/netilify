@@ -3,7 +3,7 @@
 
 Bienvenue dans le dépôt GitHub de **Shinobi Club** !  
 Ce projet a pour objectif d'améliorer nos plateformes :
-- [Shinobi Club](https://shinobi.club/#https://github.com/)
+- [Shinobi Club](https://shinobi.club/#https://github.com/Sam15828558/netilify/blob/main/)
 - [Formation Shinobi Club](https://formation.shinobi.club/#https://github.com/)
 
 Nous utilisons **Bolt.new** pour tester et optimiser les fonctionnalités de nos sites web.
